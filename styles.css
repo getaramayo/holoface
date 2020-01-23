@@ -1,0 +1,29 @@
+.buttons {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.secondb {
+    font-family: lobster;
+    background-color: skyblue;
+}
+
+.chris {
+    background-color: crimson;
+    font-family: georgia;
+}
+
+body {
+    background-image:url(https://scx1.b-cdn.net/csz/news/800/2017/fivesurprisi.jpg);
+}
+
+img {
+    width: 520px;
+    border: 15px solid red;
+}
+
+h1 {
+    text-align: center;
+}
